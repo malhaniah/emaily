@@ -1,4 +1,4 @@
-# Emaily
+# Emaily (WIP)
 ## This project is a part of course on udemy teaches the way to build a full-stack webapp with:
 - React
 - MongoDB
