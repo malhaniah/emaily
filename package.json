@@ -1,0 +1,25 @@
+{
+  "name": "emaily",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "api": "nodemon --exec ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "@types/passport": "^1.0.12",
+    "@types/passport-google-oauth20": "^2.0.11",
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.21",
+    "typescript": "^5.0.2"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "passport": "^0.6.0",
+    "passport-google-oauth20": "^2.0.0"
+  }
+}
