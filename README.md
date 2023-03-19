@@ -4,11 +4,12 @@
 - MongoDB
 - Redux
 - Node/Express
+- Passport
 - Google OAuth 2.0
 etc..
 
-### Feel free to use the code as it's only for educational purposes
+### Feel free to fork the repo as it's only for educational purposes
 
 ```
-$ git clone 
+$ git clone https://github.com/malhaniah/emaily.git
 ```
